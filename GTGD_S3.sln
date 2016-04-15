@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTGD_S3.CSharp", "GTGD_S3.CSharp.csproj", "{E16B56DE-759B-E9F3-E0D0-9D4DAF7AB255}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTGD_S3.CSharp.Editor", "GTGD_S3.CSharp.Editor.csproj", "{49B66370-A4C9-B7F4-BFFA-694123CFAA5D}"
