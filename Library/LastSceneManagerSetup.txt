@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GTGD S3/_Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1

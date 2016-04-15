@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="GTGD_S3.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GTGD S3\_Scripts\Player Scripts\Player_CanvasHurt.cs">
+    <Files>
+      <File FileName="Assets\GTGD S3\_Scripts\Player Scripts\Player_CanvasHurt.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
